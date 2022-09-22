@@ -1,0 +1,15 @@
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\Massiv_002.csproj.AssemblyReference.cache
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\Massiv_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\Massiv_002.AssemblyInfoInputs.cache
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\Massiv_002.AssemblyInfo.cs
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\Massiv_002.csproj.CoreCompileInputs.cache
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\bin\Debug\net6.0\Massiv_002.exe
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\bin\Debug\net6.0\Massiv_002.deps.json
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\bin\Debug\net6.0\Massiv_002.runtimeconfig.json
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\bin\Debug\net6.0\Massiv_002.dll
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\bin\Debug\net6.0\Massiv_002.pdb
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\Massiv_002.dll
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\refint\Massiv_002.dll
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\Massiv_002.pdb
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\Massiv_002.genruntimeconfig.cache
+C:\Users\79227\Desktop\Seminar 2.massiv\Massiv\Massiv_002\obj\Debug\net6.0\ref\Massiv_002.dll
